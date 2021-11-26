@@ -1,0 +1,76 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Frozen 2",
+      "lang": "English",
+      "year": "2016",
+      "genre": "Animation",
+      "time": "1hr 42m",
+      "description": "Queen Elsa begins to hear a mysterious melodic voice calling to her. Unsettled, she answers it, thus awakening the elemental spirits and setting into motion a quest to restore an old injustice.",
+      "img": "../assets/images/frozen2.jpeg",
+      "carImg1": "../assets/images/fcar1.jpeg",
+      "carImg2": "../assets/images/fcar2.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Aladdin",
+      "lang": "English",
+      "year": "1992",
+      "genre": "Animation",
+      "time": "1hr 30m",
+      "description": "Aladdin, a common thief, falls in love with Princess Jasmine, but cannot marry her as he is not a prince. Jafar, a royal vizier with a hidden agenda, enlists Aladdin's help to retrieve a magical lamp.",
+      "img": "../assets/images/aladdin.jpg",
+      "carImg1": "../assets/images/acar1.png",
+      "carImg2": "../assets/images/acar2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Angry Birds 2",
+      "lang": "English",
+      "year": "2019",
+      "genre": "Animation",
+      "time": "1hr 36m",
+      "description": "Bird and Piggy Islands are under threat when Zeta, the leader of Eagle Island, wants to occupy them. Red must join forces with Leonard's team to thwart her bold schemes and save their homes.",
+      "img": "../assets/images/angrybirds.jpg",
+      "carImg1": "../assets/images/abcar1.jpg",
+      "carImg2": "../assets/images/abcar2.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Incredibles 2",
+      "lang": "English",
+      "year": "2018",
+      "genre": "Animation",
+      "time": "1hr 58m",
+      "description": "Entrusted with a task to restore public faith in superheroes, Helen sets off on a mission to catch a supervillain, while Bob faces the challenges of stay-at-home parenting.",
+      "img": "../assets/images/inc2.jpg",
+      "carImg1": "../assets/images/icar1.jpg",
+      "carImg2": "../assets/images/icar2.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Boss Baby",
+      "lang": "English",
+      "year": "2017",
+      "genre": "Animation",
+      "time": "1hr 37m",
+      "description": "Seven-year-old Tim gets jealous when his parents give all their attention to his little brother. Tim soon learns that the baby can talk and the two team up to foil the plans of the CEO of Puppy Co.",
+      "img": "../assets/images/bossbaby.jpg",
+      "carImg1": "../assets/images/bcar1.jpg",
+      "carImg2": "../assets/images/bcar2.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pinocchio",
+      "lang": "English",
+      "year": "1940",
+      "genre": "Animation",
+      "time": "1hr 28m",
+      "description": "Pinocchio, a marionette, must earn the right to become a real boy by proving to be truthful, brave and selfless. He is assisted by Jimmy Cricket, his assigned conscience.",
+      "img": "../assets/images/pinocchio.jpeg",
+      "carImg1": "../assets/images/pcar1.jpeg",
+      "carImg2": "../assets/images/pcar2.jpeg"
+    }
+  ]
+}

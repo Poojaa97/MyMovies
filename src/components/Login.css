@@ -1,0 +1,18 @@
+.basicDiv p {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.form p {
+  margin-top: 10px;
+  font-size: 12px;
+  font-weight: 100 !important;
+}
+
+.form p a {
+  color: #fefefe;
+  font-weight: 900;
+  font-size: 14px;
+}

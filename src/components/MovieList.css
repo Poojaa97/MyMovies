@@ -1,0 +1,46 @@
+.movies .bgcolor {
+  min-height: 100% !important;
+}
+.movies .basicDiv {
+  text-align: center;
+}
+
+.movies .basicDiv h3 {
+  display: inline;
+}
+
+.movies .basicDiv a {
+  float: right;
+}
+.movies .customCaret {
+  font-size: 20px;
+}
+.movies .basicDiv h3 {
+  text-align: center;
+}
+.movies .column {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+.movies .card {
+  box-shadow: none;
+  border-radius: 0px;
+  border: 0px;
+  margin: 0px !important;
+  background-color: #4b4b4d;
+}
+.movies .card .image {
+  border-radius: 0px !important;
+}
+.movies .content .header {
+  color: #fefefe !important;
+  text-align: center;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+}
+.movies .content .description {
+  color: #fefefe !important;
+  text-align: center;
+  font-weight: lighter !important;
+  font-size: 0.65rem !important;
+}

@@ -1,0 +1,35 @@
+.moviesD .bgcolor {
+  min-height: 100% !important;
+}
+.carDiv {
+  height: 300px !important;
+}
+
+.desc {
+  background-color: #4b4b4d;
+  color: #fefefe;
+  padding: 20px;
+}
+
+.desc h6 {
+  font-style: italic;
+}
+
+.desc .customButton {
+  color: #fefefe !important;
+  background: #e2112e !important;
+  width: 150px;
+  border-radius: 20px !important;
+}
+
+.moviesD .basicDiv {
+  text-align: center;
+}
+
+.moviesD .basicDiv h3 {
+  display: inline;
+}
+
+.moviesD .basicDiv a {
+  float: left;
+}
